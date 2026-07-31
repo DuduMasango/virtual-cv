@@ -1,46 +1,30 @@
-# Virtual CV
+# Virtual CV Portfolio - Dudu Emmeretia Masango
 
-## Overview
-
-This repository contains the source code for my personal portfolio website developed as part of my Bachelor of Science in Information Technology studies at North-West University.
-
-The website serves as a virtual CV, showcasing my education, technical skills, work experience, projects, and professional profile.
+## About This Project
+This project is a personal virtual CV portfolio developed to showcase my academic background, technical skills, projects, and professional experience as a final-year Bachelor of Science in Information Technology student at North-West University.
 
 ## Features
-
-- About Me
-- Education
-- Experience
-- Skills
-- Projects
-- Contact Information
-- GitHub Integration
-- LinkedIn Integration
-- Responsive Design
+- Professional profile section
+- Education background
+- Work experience
+- Technical skills
+- Featured projects
+- Contact information
+- Downloadable CV
 
 ## Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
+- GitHub Pages
 
-## Repository Structure
-
-```
-virtual-cv/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── images/
-└── assets/
-```
+## Projects Included
+- Clinical Decision Support System (CDSS)
+- Enterprise Network Design
 
 ## Author
-
 **Dudu Emmeretia Masango**
 
-Final-Year Bachelor of Science in Information Technology Student
-
-North-West University
+Bachelor of Science in Information Technology  
+North-West University  
+Expected Graduation: 2026
